@@ -5,5 +5,13 @@ should also include a brief description of any prior experience any group member
 with the tools and technologies you list. There is no minimum length for this. It is important
 to be as precise as possible, but descriptions of the tools are not needed here."
 
-For the creation of 'Trashocated', powerful computing devices are required in order to efficiently develop for both Android and iPhone
-platforms.
+For the creation of 'Trashocated', powerful computing devices are required in order to efficiently develop for the iPhone
+platform. iOS app development is completed with Xcode (10.0 version), an integrated development environment which 
+not only includes a text based code editor (which requires code to be written in Swift 4.2), but also an intuitive design platform 
+for mobile devices. Xcode is designed exclusively for devices running the OSX operating systems. And as Xcode is a relatively processor
+intensive program, the minimum requirements in an OSX (running 10.16 Mojave) device for this purpose are baked within the 2018 MacBook 
+Pro (RRP $1,899), which 
+boasts 2.3GHz dual-core Intel Core i5 processor, Turbo Boost up to 3.6GHz, Intel Iris Plus Graphics 640, 8GB of 2133MHz LPDDR3 memory, 
+and a 128GB SSD. Along with that, in order to post the Trashocated application on Apple's App Store for download, a membership to the Apple
+Development Program ($99) is required. This will only be required by one developer, and also will provide them access to beta software,
+beta testing tools, and app analytics.
